@@ -19,7 +19,7 @@ Predictable, explainable revenue forecasts for subscription and transactional bu
 
 ## Quickstart
 ```bash
-git clone git@github.com:rob-russell/revenue-forecasting-toolkit.git
+git clone git@github.com:trisonssolutions/revenue-forecasting-toolkit.git
 cd revenue-forecasting-toolkit
 python -m venv .venv
 source .venv/bin/activate
